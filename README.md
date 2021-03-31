@@ -13,7 +13,7 @@ So at BeCode we don't teach, instead we help you find out how you can **teach yo
 This is why in BeCode we use and **active learning** pedagogy, that boils down to 3 simple rules:
     - When in doubt, google it
     - When you don't find it on google, ask your teammates
-    - And in the end, of that doesn't work: ask the coach
+    - And in the end, if that doesn't work: ask the coach
     
 This means that learning with us is not like listening to a teacher all the time like a traditional school: instead it is more like going on an exploration adventure yourself!
 
